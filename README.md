@@ -1,5 +1,5 @@
-# accuracy-toolbox
-Python-based ArcGIS toolbox for assessing accuracy of landcover maps compared to a set of ground-truth points. 
+# Land Cover Accuracy Toolbox
+Python-based ArcGIS toolbox for assessing accuracy of land cover maps compared to a set of ground truth points. 
 
 ## Getting Started
 
@@ -32,6 +32,8 @@ Open ArcGIS Pro or ArcMap:
 ### Built With
 * ArcGIS Desktop 10.4.1
 * ArcGIS Pro 2.0
+* Python 3
+* xlsxwriter
 * Notepad ++
 
 ### Authors
@@ -40,8 +42,9 @@ Open ArcGIS Pro or ArcMap:
 
 ### Usage Requirements
 
-None
+If using this tool or derivatives of this tool, please cite as follows:
+Nawrocki, T.W. 2017. Land Cover Accuracy Toolbox. Git Repository. Available: https://github.com/accs-uaa/land-cover-accuracy
 
 ### License
 
-This project is private and can be used by Alaska Center for Conservation Science and collaborators.
+This project is provided under the GNU General Public License v3.0. It is free to use and modify in part or in whole.
